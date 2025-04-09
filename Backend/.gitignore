@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+
+# Environment files
+.env
+
+# Dependency directories
+package-lock.json
+package.json
+
+
+
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+
